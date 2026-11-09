@@ -25,5 +25,6 @@ If you would like a repository added, open an issue with the title `Add:repo-nam
 ### [Proton Mail](https://github.com/ProtonMail) - Secure email service
 ### [Proton Drive](https://github.com/ProtonDriveApps) - Private cloud storage by Proton
 ### [Proton VPN](https://github.com/ProtonVPN) - Proton's VPN
+### [Musify](https://github.com/gokadzev/Musify) - Music streaming app with offline song support
 # Credits 🏆
 All repositories linked are property of their respective owners. Refer to each repository's license for licensing
